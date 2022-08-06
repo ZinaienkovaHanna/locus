@@ -1,3 +1,12 @@
+body {
+  min-width: 320px;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.main {
+    flex: 1 1 auto;
+}
 
 h1 {
     color: var(--h2-text-color);
@@ -21,6 +30,3 @@ p {
   padding: 0px 15px;
 }
 
-.main {
-    flex: 1 1 auto;
-}
