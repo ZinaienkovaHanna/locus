@@ -1,0 +1,49 @@
+
+.header {
+}
+.header__container {
+
+}
+.container__menu {
+    
+    min-height: 254px;
+    align-items: center;
+}
+.header__logo {
+}
+.logo {
+    width: 200px;
+}
+.header__menu {
+    display: flex;
+}
+.menu__list {
+    /* flex: 1 1 auto; */
+}
+.menu__item {
+}
+.menu__link {
+}
+.container__banner {
+    display: flex;
+    
+}
+.banner__content {
+    flex: 0 1 50%;
+}
+.content__tittle {
+}
+.content__text {
+    width: 500px;
+}
+.content__form {
+}
+.form__input {
+}
+.content__button {
+}
+.banner__image {
+    flex: 0 1 50%;
+    background-color: var(--button);
+
+}

@@ -5,6 +5,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+a {
+    text-decoration: none;
+  }
+  ul,
+  ol,
+  li {
+    list-style: none;
+  }
 
 :root {
     --text-color: #486958;
