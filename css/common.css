@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular,500,500italic,600,700,800);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color: #486958;
+    --h2-text-color: #1c2323;
+    --h3-text-color: #58a9a5;
+    --button: #58a9a5;
+    scroll-behavior: smooth;
+    font-family: Poppins;
+}
+
+
+img {
+    display: block;
+    width: 100%;
+}
